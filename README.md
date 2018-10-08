@@ -1,5 +1,5 @@
 # CS162_P1_Langtons_Ant
-In this project, I try to simulate Langton’s Ant. You can find out more about it here on Wikipedia:  
+In this project, I simulate Langton’s Ant. You can find out more about it here on Wikipedia:  
 
 https://en.wikipedia.org/wiki/Langton%27s_ant. 
 
